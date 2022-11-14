@@ -31,3 +31,11 @@
 .hamburger-bottom {
     transform: translateY(14px);
 }
+
+.line {
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: #EBEAED;
+}
+
